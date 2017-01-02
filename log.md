@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: January 1, Sunday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp [Start from Scratch]. I know that I'm not a newbie but I want to do all things good and updating my portfolio [I need an update]. (:
 
