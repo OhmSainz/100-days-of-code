@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. [Updating Portfolio](http://www.omarsainz.com/)
+
+### Day 2: January 2, Monday
+
+**Today's Progress**: Today I've created a basic Webpack configuration to my new Portfolio (I'm still thinking about a new design) and learning about Loaders and how this works
+
+**Thoughts** Wow, I feel really, really happy, because I started to learn Webpack... There's a lot of things to learn!! ~
+
+**Link(s) to work**
+1. [Updating Portfolio](http://www.omarsainz.com/)
+2. [Creating a Webpack basic configuration file](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
