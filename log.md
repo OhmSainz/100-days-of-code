@@ -19,7 +19,7 @@
 1. [Updating Portfolio](http://www.omarsainz.com/)
 2. [Creating a Webpack basic configuration file](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
 
-### Day 3: January 3, Monday
+### Day 3: January 3, Tuesday
 
 **Today's Progress**: Today, I've tried to write more code, but I can't write more because I have a bug... "Uncaught SyntaxError: Unexpected token import" using ES6 Syntax in JavaScript
 
