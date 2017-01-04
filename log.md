@@ -18,3 +18,12 @@
 **Link(s) to work**
 1. [Updating Portfolio](http://www.omarsainz.com/)
 2. [Creating a Webpack basic configuration file](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
+
+### Day 3: January 3, Monday
+
+**Today's Progress**: Today, I've tried to write more code, but I can't write more because I have a bug... "Uncaught SyntaxError: Unexpected token import" using ES6 Syntax in JavaScript
+
+**Thoughts** I have reading, reading and more reading... First day when I wrote less but I'm not frustrated, I know tomorrow I will solve and fix this bug!
+
+**Link(s) to work**
+1. [Creating a Webpack Server with Loaders Upadted](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
