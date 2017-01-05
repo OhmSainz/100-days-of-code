@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [Creating a Webpack Server with Loaders Upadted](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
+
+### Day 4: January 4, Wednesday
+
+**Today's Progress**: Today, I've fixed the error " "Uncaught SyntaxError: Unexpected token import" using ES6 Syntax in JavaScript" writing a babelrc file. I didn't know about it, I reading I can fix it.
+
+**Thoughts** Hel yeah! I fixed the problem!! I didn't write more code than babelrc but I'm happy because I can do more things tomorrow. ;) 
+
+**Link(s) to work**
+1. [Fixed Problem in Webpack File](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
