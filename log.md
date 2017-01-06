@@ -36,3 +36,13 @@
 
 **Link(s) to work**
 1. [Fixed Problem in Webpack File](https://github.com/OmarSainz/omarsainz.github.io/tree/master/test)
+
+
+### Day 5: January 5, Thursday
+
+**Today's Progress**: Adding HTML elements to Portfolio. 
+
+**Thoughts** Okay, today has been a bad day... I've not worked so much in code, planning the new Portfolio.
+
+**Link(s) to work**
+1. [Updating Portfolio](http://www.omarsainz.com/)
