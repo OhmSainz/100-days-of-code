@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [Updating Portfolio](http://www.omarsainz.com/)
+
+### Day 6: January 6, Friday
+
+**Today's Progress**: Removing Elements, just that... And More planning... 
+
+**Thoughts** No words, just planning. 
+
+**Link(s) to work**
+1. [Updating Portfolio](http://www.omarsainz.com/)
