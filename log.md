@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Updating Portfolio](http://www.omarsainz.com/)
+
+### Day 7: January 7, Saturday
+
+**Today's Progress**: Removing old content from old Websites - New projects created Mextreme and Marineros 
+
+**Thoughts** Today I've travelled to my home (I was in my parent's house) and I've created new projects for this Week.
+
+**Link(s) to work**
+1. [Creating new projects](https://github.com/OmarSainz/omarsainz.github.io)
