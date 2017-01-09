@@ -64,3 +64,12 @@
 
 **Link(s) to work**
 1. [Creating new projects](https://github.com/OmarSainz/omarsainz.github.io)
+
+### Day 8: January 8, Sunday
+
+**Today's Progress**: Creating a new Repository for a new project, a challenge, technology by month.
+
+**Thoughts** Today, I've thinking about a project... But the conclusion is... I need to learn more technologies and how to program like a good developer... I'm happy.
+
+**Link(s) to work**
+1. [Technology by Month](https://github.com/OmarSainz/technology-by-month)
