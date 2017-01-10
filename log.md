@@ -73,3 +73,12 @@
 
 **Link(s) to work**
 1. [Technology by Month](https://github.com/OmarSainz/technology-by-month)
+
+### Day 9: January 9, Monday
+
+**Today's Progress**: Creating new files and structure for the new projects.
+
+**Thoughts** Today, I left University, my first and last day (second semester) because I'm going to prepare myself all this year to improve my developer skills. 
+
+**Link(s) to work**
+1. [Technology by Month](https://github.com/OmarSainz/technology-by-month)
