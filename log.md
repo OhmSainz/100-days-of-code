@@ -82,3 +82,12 @@
 
 **Link(s) to work**
 1. [Technology by Month](https://github.com/OmarSainz/technology-by-month)
+
+### Day 10: January 10, Tuesday
+
+**Today's Progress**: Creating new files in Sass Language. 
+
+**Thoughts** Today, I wrote files in Sass, I had long time without write Sass code. But I have a good memory. (:
+
+**Link(s) to work**
+1. [Creating new files](https://github.com/OmarSainz/omarsainz.github.io)
