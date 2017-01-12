@@ -91,3 +91,11 @@
 
 **Link(s) to work**
 1. [Creating new files](https://github.com/OmarSainz/omarsainz.github.io)
+
+### Day 11: January 11, Wednesday
+
+**Today's Progress**: Today, I didn't code.
+
+**Thoughts** The reason is simple, I was sending resume to diferent position in FrontEnd and talking with clients about new and futures projects.
+
+**Link(s) to work**
