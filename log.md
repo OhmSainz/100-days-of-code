@@ -99,3 +99,23 @@
 **Thoughts** The reason is simple, I was sending resume to diferent position in FrontEnd and talking with clients about new and futures projects.
 
 **Link(s) to work**
+
+
+### Day 12: January 12, Thursday
+
+**Today's Progress**: Today, I was coding a Website for a client. Creating a basic structure with Bootstrap.
+
+**Thoughts** Today I wrote code, but not enough, I've trying to organize myself and write more and more code.
+
+**Link(s) to work**
+1. [Creating basic structure with Bootstrap](https://github.com/OmarSainz/omarsainz.github.io)
+
+
+### Day 13: January 13, Friday
+
+**Today's Progress**: Today, I work with HTML and Bootstrap (even carousel) for Mextreme project.
+
+**Thoughts** Today I wrote code, creating all structure usign bootstrap, but without assets.
+
+**Link(s) to work**
+1. [Complete structure in HTML](https://github.com/OmarSainz/omarsainz.github.io)
