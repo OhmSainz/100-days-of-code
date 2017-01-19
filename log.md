@@ -113,9 +113,56 @@
 
 ### Day 13: January 13, Friday
 
-**Today's Progress**: Today, I work with HTML and Bootstrap (even carousel) for Mextreme project.
+**Today's Progress**: No coding for today just reading.
 
-**Thoughts** Today I wrote code, creating all structure usign bootstrap, but without assets.
+**Thoughts** Today read about good practices
 
 **Link(s) to work**
-1. [Complete structure in HTML](https://github.com/OmarSainz/omarsainz.github.io)
+
+
+### Day 14: January 14, Saturday
+
+**Today's Progress**: Today, I was updating code from old projects. I can't put the links because those projects are in Bitbucket.
+
+**Thoughts** Today: Just thinking, can I challenge the 100 days? Thinking a lot of things... Maybe... I won't finish this challenge. 
+
+**Link(s) to work**
+
+
+### Day 15: January 15, Sunday
+
+**Today's Progress**: Today, I created a planning for a new blog and FrontEnd Course. 
+
+**Thoughts** OMG, I felt alive, because days ago, I was thinking about to retire from this challenge.
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/OmarSainz/omarsainz.github.io)
+
+
+### Day 16: January 16, Monday
+
+**Today's Progress**: Today, nothing at all just reading, reading and more reading.
+
+**Thoughts** Finishing the planning for FrontEnd Course.
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/OmarSainz/omarsainz.github.io)
+
+### Day 13: January 17, Tuesday
+
+**Today's Progress**: Today, I've worked with JavaScript but not in a repository, just practice.
+
+**Thoughts** I think this is the right way to conquer my discipline.
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/OmarSainz/omarsainz.github.io)
+
+
+### Day 18: January 18, Wednesday
+
+**Today's Progress**: Today was like a zero day... Just preparing for the battle, coding in console not in a repository. 
+
+**Thoughts** This was is mine... I won't cancel this challenge
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/OmarSainz/omarsainz.github.io)
