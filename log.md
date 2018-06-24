@@ -1,8 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 23, Saturday
+### Day 1: June 23, Saturday
 
 **Today's Progress**: Feels good to be back at coding. Reset all my previous log from last year. Start from Scratch.
+
+**Link(s) to work**
+1. [Updating Blog](https://omarsainz.com/blog)
+
+### Day 1: June 24, Sunday
+
+**Today's Progress**: Updating the blog, new style added.
 
 **Link(s) to work**
 1. [Updating Blog](https://omarsainz.com/blog)
