@@ -28,3 +28,11 @@
 
 **Link(s) to work**
 1. [Updating Blog](https://omarsainz.com/blog)
+
+### Day 5: June 27, Wednesday
+
+**Today's Progress**: Updating Survey in CreSiendo's Section. Creating an PWA in Vue.
+
+**Link(s) to work**
+1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
+2. [Creating a Vue PWA](https://github.com/OhmSainz/vue-pwa.git)
