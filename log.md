@@ -36,3 +36,17 @@
 **Link(s) to work**
 1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
 2. [Creating a Vue PWA](https://github.com/OhmSainz/vue-pwa.git)
+
+### Day 6: June 28, Thursday
+
+**Today's Progress**: Updating PWA in Vue. Trying to fixing few issues with Firebase.
+
+**Link(s) to work**
+1. [Updating a Vue PWA](https://github.com/OhmSainz/vue-pwa.git)
+
+### Day 7: June 29, Friday
+
+**Today's Progress**: Updating Survey in CreSiendo's Section. Learning NodeJS.
+
+**Link(s) to work**
+1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
