@@ -50,3 +50,17 @@
 
 **Link(s) to work**
 1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
+
+### Day 8: June 30, Saturday
+
+**Today's Progress**: Adding a class & code: Anatomy of a Node Application.
+
+**Link(s) to work**
+1. [Updating Node Master Class Repo](https://github.com/OhmSainz/nodejs-masterclass)
+
+### Day 9: June 29, Friday
+
+**Today's Progress**: Adding a class & code: Common Node Conventions.
+
+**Link(s) to work**
+1. [Updating Node Master Class Repo](https://github.com/OhmSainz/nodejs-masterclass)
