@@ -58,9 +58,57 @@
 **Link(s) to work**
 1. [Updating Node Master Class Repo](https://github.com/OhmSainz/nodejs-masterclass)
 
-### Day 9: June 29, Friday
+### Day 9: July 1, Sunday
 
 **Today's Progress**: Adding a class & code: Common Node Conventions.
 
 **Link(s) to work**
 1. [Updating Node Master Class Repo](https://github.com/OhmSainz/nodejs-masterclass)
+
+### Day 10: July 2, Monday
+
+**Today's Progress**: Adding a class & code in NodeJS and new repo for Vue Class in Egghead
+
+**Link(s) to work**
+1. [Updating Node Master Class Repo](https://github.com/OhmSainz/nodejs-masterclass)
+2. [Updating Egghead class for VueJS](https://github.com/OhmSainz/Egghead)
+
+### Day 11: July 3, Tuesday
+
+**Today's Progress**: Updating code in Omnilife's Website, learning best practices in CSS.
+
+**Link(s) to work**
+1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
+
+### Day 12: July 4, Wednesday
+
+**Today's Progress**: Learning VueJS.
+
+**Link(s) to work**
+1. [Updating Egghead class for VueJS](https://github.com/OhmSainz/Egghead)
+
+### Day 12: July 5, Thursday
+
+**Today's Progress**: Updating Omnilife's Website, learning CSS protips.
+
+**Link(s) to work**
+1. [Updating Egghead class for VueJS](https://github.com/OhmSainz/Egghead)
+2. [CSS Protips](https://github.com/OhmSainz/css-protips)
+3. [Airbnb CSS/Sass Styleguide](https://github.com/OhmSainz/css)
+4. [NodeJS Best Practices](https://github.com/OhmSainz/nodebestpractices)
+
+### Day 11: July 6, Friday
+
+**Today's Progress**: Updating code in Omnilife's Website, learning best practices in CSS.
+
+**Link(s) to work**
+1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
+
+
+### Day 11: July 7, Saturday
+
+**Today's Progress**: Updating code in Omnilife's Website, learning CSS Grid.
+
+**Link(s) to work**
+1. [Updating CreSiendo](https://github.com/OhmSainz/Omnilife)
+2. [Learning CSS Grid](https://github.com/OhmSainz/css-grid)
